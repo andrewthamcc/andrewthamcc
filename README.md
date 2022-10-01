@@ -31,6 +31,9 @@ I'm a developer based in Toronto 🇨🇦. I'm also a dog dad 🐶, amateur carp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
-
-
 </div>
+
+<hr>
+
+##### Reach out if you're looking for a developer, have a question, or would like to connect.
+[hello@andrewtham.cc](mailto:hello@andrewtham.cc)
