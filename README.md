@@ -35,5 +35,4 @@ I'm a developer based in Toronto 🇨🇦. I'm also a dog dad 🐶, amateur carp
 
 <hr>
 
-##### Reach out if you're looking for a developer, have a question, or would like to connect.
-[hello@andrewtham.cc](mailto:hello@andrewtham.cc)
+Reach out if you're looking for a developer, have a question, or would like to connect. [hello@andrewtham.cc](mailto:hello@andrewtham.cc)
