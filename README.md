@@ -1,7 +1,6 @@
 ## Hi! I'm [Andrew Tham](https://andrewtham.cc)
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/andrewthamcc)
-[<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/andrew_tham)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://medium.com/@andrew.tham.cc)
 
 ![](https://user-images.githubusercontent.com/45271739/193426162-4261d4ab-33f5-4ae0-9ec7-03a40d96c705.png)
